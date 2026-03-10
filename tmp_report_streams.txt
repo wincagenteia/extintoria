@@ -1,0 +1,922 @@
+--- STREAM 0 ---
+/Artifact BMC q
+35.1 61.025 524.98 725.78 re
+W* n
+/GS6 gs
+1 1 0.8 rg
+238.33 732.2 321.35 55.1 re
+f*
+Q
+ EMC  /P <</MCID 0>> BDC q
+116.33 732.8 121.5 54 re
+W* n
+BT
+/F1 10.3 Tf
+1 0 0 1 152.02 768.9 Tm
+0 g
+/GS9 gs
+0 G
+[(A)4(N)4(EXO  O )-3(  )-4(  )-4(  )-4(  )-4(  )-4(  )-4(  )-4(  )-4(  )-4( )] TJ
+ET
+Q
+q
+116.33 732.8 121.5 54 re
+W* n
+BT
+/F1 10.3 Tf
+1 0 0 1 117.82 756 Tm
+0 g
+0 G
+[(R)4(equisi)-3(tos )-3(de Av)-3(a)-4(l)-3(i)-3(a)-4(çã)-6(o)-4( da)-4( )] TJ
+ET
+Q
+q
+116.33 732.8 121.5 54 re
+W* n
+BT
+/F1 10.3 Tf
+1 0 0 1 145.22 743.1 Tm
+0 g
+0 G
+[(C)4(o)-4(nf)6(o)-4(rm)25(i)-3(dade)] TJ
+ET
+Q
+ EMC  /P <</MCID 1>> BDC q
+35.1 61.025 524.98 725.78 re
+W* n
+BT
+/F1 8.6 Tf
+1 0 0 1 36.2 664.77 Tm
+0 g
+0 G
+[(Num)18(er)4(ação )-3(s)5(equencial )-7(do )-7(lot)-4(e)] TJ
+ET
+Q
+ EMC  /P <</MCID 2>> BDC q
+35.1 61.025 524.98 725.78 re
+W* n
+BT
+/F2 8.6 Tf
+1 0 0 1 239.92 664.77 Tm
+0 g
+0 G
+[(I)5(ni)-2(cial:)-3( )] TJ
+ET
+Q
+ EMC  /P <</MCID 3>> BDC q
+35.1 61.025 524.98 725.78 re
+W* n
+BT
+/F2 8.6 Tf
+1 0 0 1 404.95 664.77 Tm
+0 g
+0 G
+[(F)4(in)-2(al:)] TJ
+ET
+Q
+ EMC  /P <</MCID 4>> BDC q
+35.1 61.025 524.98 725.78 re
+W* n
+BT
+/F1 8.6 Tf
+1 0 0 1 36.2 647.08 Tm
+0 g
+0 G
+[(Num)18(er)4(ação )-3(s)5(equencial )-7(ut)-5(ili)-2(zada )-5(no )-7(m)19(ês)] TJ
+ET
+Q
+ EMC  /P <</MCID 5>> BDC q
+35.1 61.025 524.98 725.78 re
+W* n
+BT
+/F2 8.6 Tf
+1 0 0 1 239.92 647.08 Tm
+0 g
+0 G
+[(I)5(ni)-2(cial:)-3( )-5(-)-3( )] TJ
+ET
+Q
+ EMC  /P <</MCID 6>> BDC q
+35.1 61.025 524.98 725.78 re
+W* n
+BT
+/F2 8.6 Tf
+1 0 0 1 404.95 647.08 Tm
+0 g
+0 G
+[(F)4(in)-2(al:)-4( )-5(-)] TJ
+ET
+Q
+ EMC  /P <</MCID 7>> BDC q
+35.1 61.025 524.98 725.78 re
+W* n
+BT
+/F1 8.6 Tf
+1 0 0 1 36.2 629.38 Tm
+0 g
+0 G
+[(Num)18(er)4(ação )-3(s)5(equencial )-7(de )-5(Selos)4( )-5(em)21( )-5(es)7(t)-3(oqu)-3(e)] TJ
+ET
+Q
+ EMC  /P <</MCID 8>> BDC q
+35.1 61.025 524.98 725.78 re
+W* n
+BT
+/F2 8.6 Tf
+1 0 0 1 239.92 629.38 Tm
+0 g
+0 G
+[(I)5(ni)-2(cial:)-3(0)] TJ
+ET
+Q
+ EMC  /P <</MCID 9>> BDC q
+35.1 61.025 524.98 725.78 re
+W* n
+BT
+/F2 8.6 Tf
+1 0 0 1 404.95 629.38 Tm
+0 g
+0 G
+[(F)4(in)-2(al:)-4( )-5(0)] TJ
+ET
+Q
+ EMC  /P <</MCID 10>> BDC q
+35.1 61.025 524.98 725.78 re
+W* n
+BT
+/F1 8.6 Tf
+1 0 0 1 36.2 611.67 Tm
+0 g
+0 G
+[(Qu)-2(ant)-5(id)-2(ade )-5(de )-5(Selos)4( )-5(Sol)-2(icit)-3(ados)3(:)-3( )-5(3.)-5(500)] TJ
+ET
+Q
+ EMC  /P <</MCID 11>> BDC q
+35.1 61.025 524.98 725.78 re
+W* n
+BT
+/F1 8.6 Tf
+1 0 0 1 36.2 593.97 Tm
+0 g
+0 G
+[(Qu)-2(ant)-5(id)-2(ade )-5(de )-5(Selos)4( )-5(I)5(nu)-3(t)-3(ili)-2(zados)5(:)] TJ
+ET
+Q
+ EMC  /P <</MCID 12>> BDC q
+35.1 547.17 524.98 19.8 re
+W* n
+BT
+/F1 8.6 Tf
+1 0 0 1 254.42 553.88 Tm
+0 g
+0 G
+ -0.0362 Tc[(BC)] TJ
+ET
+Q
+ EMC  /P <</MCID 13>> BDC q
+35.1 547.17 524.98 19.8 re
+W* n
+BT
+/F1 8.6 Tf
+1 0 0 1 299.95 553.88 Tm
+0 g
+0 G
+[(AB)5(C)] TJ
+ET
+Q
+ EMC  /P <</MCID 14>> BDC q
+35.1 547.17 524.98 19.8 re
+W* n
+BT
+/F1 8.6 Tf
+1 0 0 1 339.65 553.88 Tm
+0 g
+0 G
+ -0.0092 Tc[(AP)] TJ
+ET
+Q
+ EMC  /P <</MCID 15>> BDC q
+35.1 547.17 524.98 19.8 re
+W* n
+BT
+/F1 8.6 Tf
+1 0 0 1 359.15 553.88 Tm
+0 g
+0 G
+ -0.0362 Tc[(EM)] TJ
+ET
+Q
+ EMC  /P <</MCID 16>> BDC q
+35.1 547.17 524.98 19.8 re
+W* n
+BT
+/F1 8.6 Tf
+1 0 0 1 424.47 553.88 Tm
+0 g
+0 G
+[(I)5(ni)-2(cial)] TJ
+ET
+Q
+ EMC  /P <</MCID 17>> BDC q
+35.1 547.17 524.98 19.8 re
+W* n
+BT
+/F1 8.6 Tf
+1 0 0 1 488.17 553.88 Tm
+0 g
+0 G
+[(F)-4(in)-2(al)] TJ
+ET
+Q
+ EMC q
+35.1 61.025 524.98 725.78 re
+W* n
+ /P <</MCID 18>> BDC BT
+/F3 7.8 Tf
+1 0 0 1 61.7 533.78 Tm
+0 g
+0 G
+[(1)] TJ
+ET
+ EMC  /P <</MCID 19>> BDC BT
+1 0 0 1 90 533.78 Tm
+[(1)] TJ
+ET
+ EMC  /P <</MCID 20>> BDC BT
+1 0 0 1 117.43 533.78 Tm
+[( )] TJ
+ET
+ EMC  /P <</MCID 21>> BDC BT
+1 0 0 1 239.92 533.78 Tm
+ -0.0368 Tc[(13)] TJ
+ET
+ EMC  /P <</MCID 22>> BDC BT
+1 0 0 1 283.95 533.78 Tm
+ 0 Tc[(2)] TJ
+ET
+ EMC  /P <</MCID 23>> BDC BT
+1 0 0 1 336.25 533.78 Tm
+[(5)] TJ
+ET
+ EMC  /P <</MCID 24>> BDC BT
+1 0 0 1 356.85 533.78 Tm
+[(0)] TJ
+ET
+ EMC  /P <</MCID 25>> BDC BT
+1 0 0 1 377.45 533.78 Tm
+1 0 0 rg
+1 0 0 RG
+ -0.0368 Tc[(20)] TJ
+ET
+ EMC  /P <</MCID 26>> BDC BT
+1 0 0 1 404.95 533.78 Tm
+0 g
+0 G
+ 0 Tc[(0)] TJ
+ET
+ EMC  /P <</MCID 27>> BDC BT
+1 0 0 1 470.38 533.78 Tm
+1 0 0 rg
+1 0 0 RG
+[(0)] TJ
+ET
+ EMC  /P <</MCID 28>> BDC BT
+1 0 0 1 549.38 533.78 Tm
+ -0.0368 Tc[(20)] TJ
+ET
+ EMC  /P <</MCID 29>> BDC BT
+1 0 0 1 61.7 518.47 Tm
+0 g
+0 G
+ 0 Tc[(2)] TJ
+ET
+ EMC  /P <</MCID 30>> BDC BT
+1 0 0 1 90 518.47 Tm
+[(2)] TJ
+ET
+ EMC  /P <</MCID 31>> BDC BT
+1 0 0 1 239.92 518.47 Tm
+ -0.0368 Tc[(15)] TJ
+ET
+ EMC  /P <</MCID 32>> BDC BT
+1 0 0 1 283.95 518.47 Tm
+ 0 Tc[(1)] TJ
+ET
+ EMC  /P <</MCID 33>> BDC BT
+1 0 0 1 336.25 518.47 Tm
+[(4)] TJ
+ET
+ EMC  /P <</MCID 34>> BDC BT
+1 0 0 1 356.85 518.47 Tm
+[(0)] TJ
+ET
+ EMC  /P <</MCID 35>> BDC BT
+1 0 0 1 377.45 518.47 Tm
+1 0 0 rg
+1 0 0 RG
+ -0.0368 Tc[(20)] TJ
+ET
+ EMC  /P <</MCID 36>> BDC BT
+1 0 0 1 404.95 518.47 Tm
+0 g
+0 G
+ 0 Tc[(0)] TJ
+ET
+ EMC  /P <</MCID 37>> BDC BT
+1 0 0 1 470.38 518.47 Tm
+1 0 0 rg
+1 0 0 RG
+[(0)] TJ
+ET
+ EMC  /P <</MCID 38>> BDC BT
+1 0 0 1 549.38 518.47 Tm
+ -0.0368 Tc[(20)] TJ
+ET
+ EMC  /P <</MCID 39>> BDC BT
+1 0 0 1 61.7 503.17 Tm
+0 g
+0 G
+ 0 Tc[(3)] TJ
+ET
+ EMC  /P <</MCID 40>> BDC BT
+1 0 0 1 90 503.17 Tm
+[(3)] TJ
+ET
+ EMC  /P <</MCID 41>> BDC BT
+1 0 0 1 239.92 503.17 Tm
+ -0.0368 Tc[(26)] TJ
+ET
+ EMC  /P <</MCID 42>> BDC BT
+1 0 0 1 283.95 503.17 Tm
+ 0 Tc[(9)] TJ
+ET
+ EMC  /P <</MCID 43>> BDC BT
+1 0 0 1 336.25 503.17 Tm
+[(5)] TJ
+ET
+ EMC  /P <</MCID 44>> BDC BT
+1 0 0 1 356.85 503.17 Tm
+[(0)] TJ
+ET
+ EMC  /P <</MCID 45>> BDC BT
+1 0 0 1 377.45 503.17 Tm
+1 0 0 rg
+1 0 0 RG
+ -0.0368 Tc[(40)] TJ
+ET
+ EMC  /P <</MCID 46>> BDC BT
+1 0 0 1 404.95 503.17 Tm
+0 g
+0 G
+ 0 Tc[(0)] TJ
+ET
+ EMC  /P <</MCID 47>> BDC BT
+1 0 0 1 470.38 503.17 Tm
+1 0 0 rg
+1 0 0 RG
+[(0)] TJ
+ET
+ EMC  /P <</MCID 48>> BDC BT
+1 0 0 1 549.38 503.17 Tm
+ -0.0368 Tc[(40)] TJ
+ET
+ EMC  /P <</MCID 49>> BDC BT
+1 0 0 1 61.7 487.87 Tm
+0 g
+0 G
+ 0 Tc[(4)] TJ
+ET
+ EMC  /P <</MCID 50>> BDC BT
+1 0 0 1 90 487.87 Tm
+[(4)] TJ
+ET
+ EMC  /P <</MCID 51>> BDC BT
+1 0 0 1 239.92 487.87 Tm
+ -0.0368 Tc[(14)] TJ
+ET
+ EMC  /P <</MCID 52>> BDC BT
+1 0 0 1 283.95 487.87 Tm
+ 0 Tc[(2)] TJ
+ET
+ EMC  /P <</MCID 53>> BDC BT
+1 0 0 1 336.25 487.87 Tm
+[(4)] TJ
+ET
+ EMC  /P <</MCID 54>> BDC BT
+1 0 0 1 356.85 487.87 Tm
+[(0)] TJ
+ET
+ EMC  /P <</MCID 55>> BDC BT
+1 0 0 1 377.45 487.87 Tm
+1 0 0 rg
+1 0 0 RG
+ -0.0368 Tc[(20)] TJ
+ET
+ EMC  /P <</MCID 56>> BDC BT
+1 0 0 1 404.95 487.87 Tm
+0 g
+0 G
+ 0 Tc[(0)] TJ
+ET
+ EMC  /P <</MCID 57>> BDC BT
+1 0 0 1 470.38 487.87 Tm
+1 0 0 rg
+1 0 0 RG
+[(0)] TJ
+ET
+ EMC  /P <</MCID 58>> BDC BT
+1 0 0 1 549.38 487.87 Tm
+ -0.0368 Tc[(20)] TJ
+ET
+ EMC  /P <</MCID 59>> BDC BT
+1 0 0 1 61.7 472.57 Tm
+0 g
+0 G
+ 0 Tc[(4)] TJ
+ET
+ EMC  /P <</MCID 60>> BDC BT
+1 0 0 1 90 472.57 Tm
+[(5)] TJ
+ET
+ EMC  /P <</MCID 61>> BDC BT
+1 0 0 1 239.92 472.57 Tm
+ -0.0368 Tc[(15)] TJ
+ET
+ EMC  /P <</MCID 62>> BDC BT
+1 0 0 1 283.95 472.57 Tm
+ 0 Tc[(2)] TJ
+ET
+ EMC  /P <</MCID 63>> BDC BT
+1 0 0 1 336.25 472.57 Tm
+[(3)] TJ
+ET
+ EMC  /P <</MCID 64>> BDC BT
+1 0 0 1 356.85 472.57 Tm
+[(0)] TJ
+ET
+ EMC  /P <</MCID 65>> BDC BT
+1 0 0 1 377.45 472.57 Tm
+1 0 0 rg
+1 0 0 RG
+ -0.0368 Tc[(20)] TJ
+ET
+ EMC  /P <</MCID 66>> BDC BT
+1 0 0 1 404.95 472.57 Tm
+0 g
+0 G
+ 0 Tc[(0)] TJ
+ET
+ EMC  /P <</MCID 67>> BDC BT
+1 0 0 1 470.38 472.57 Tm
+1 0 0 rg
+1 0 0 RG
+[(0)] TJ
+ET
+ EMC  /P <</MCID 68>> BDC BT
+1 0 0 1 549.38 472.57 Tm
+ -0.0368 Tc[(20)] TJ
+ET
+ EMC  /P <</MCID 69>> BDC BT
+1 0 0 1 61.7 457.25 Tm
+0 g
+0 G
+ 0 Tc[(6)] TJ
+ET
+ EMC  /P <</MCID 70>> BDC BT
+1 0 0 1 90 457.25 Tm
+[(6)] TJ
+ET
+ EMC  /P <</MCID 71>> BDC BT
+1 0 0 1 239.92 457.25 Tm
+[(4)] TJ
+ET
+ EMC  /P <</MCID 72>> BDC BT
+1 0 0 1 283.95 457.25 Tm
+[(6)] TJ
+ET
+ EMC  /P <</MCID 73>> BDC BT
+1 0 0 1 336.25 457.25 Tm
+[(0)] TJ
+ET
+ EMC  /P <</MCID 74>> BDC BT
+1 0 0 1 356.85 457.25 Tm
+[(0)] TJ
+ET
+ EMC  /P <</MCID 75>> BDC BT
+1 0 0 1 377.45 457.25 Tm
+1 0 0 rg
+1 0 0 RG
+ -0.0368 Tc[(10)] TJ
+ET
+ EMC  /P <</MCID 76>> BDC BT
+1 0 0 1 404.95 457.25 Tm
+0 g
+0 G
+ 0 Tc[(0)] TJ
+ET
+ EMC  /P <</MCID 77>> BDC BT
+1 0 0 1 470.38 457.25 Tm
+1 0 0 rg
+1 0 0 RG
+[(0)] TJ
+ET
+ EMC  /P <</MCID 78>> BDC BT
+1 0 0 1 549.38 457.25 Tm
+ -0.0368 Tc[(10)] TJ
+ET
+ EMC  /P <</MCID 79>> BDC BT
+1 0 0 1 61.7 441.95 Tm
+0 g
+0 G
+ 0 Tc[(7)] TJ
+ET
+ EMC  /P <</MCID 80>> BDC BT
+1 0 0 1 90 441.95 Tm
+[(7)] TJ
+ET
+ EMC  /P <</MCID 81>> BDC BT
+1 0 0 1 239.92 441.95 Tm
+ -0.0368 Tc[(14)] TJ
+ET
+ EMC  /P <</MCID 82>> BDC BT
+1 0 0 1 283.95 441.95 Tm
+[(22)] TJ
+ET
+ EMC  /P <</MCID 83>> BDC BT
+1 0 0 1 336.25 441.95 Tm
+ 0 Tc[(4)] TJ
+ET
+ EMC  /P <</MCID 84>> BDC BT
+1 0 0 1 356.85 441.95 Tm
+[(0)] TJ
+ET
+ EMC  /P <</MCID 85>> BDC BT
+1 0 0 1 377.45 441.95 Tm
+1 0 0 rg
+1 0 0 RG
+ -0.0368 Tc[(40)] TJ
+ET
+ EMC  /P <</MCID 86>> BDC BT
+1 0 0 1 404.95 441.95 Tm
+0 g
+0 G
+ 0 Tc[(0)] TJ
+ET
+ EMC  /P <</MCID 87>> BDC BT
+1 0 0 1 470.38 441.95 Tm
+1 0 0 rg
+1 0 0 RG
+[(0)] TJ
+ET
+ EMC  /P <</MCID 88>> BDC BT
+1 0 0 1 549.38 441.95 Tm
+ -0.0368 Tc[(40)] TJ
+ET
+ EMC  /P <</MCID 89>> BDC BT
+1 0 0 1 61.7 426.65 Tm
+0 g
+0 G
+ 0 Tc[(8)] TJ
+ET
+ EMC  /P <</MCID 90>> BDC BT
+1 0 0 1 90 426.65 Tm
+[(8)] TJ
+ET
+ EMC  /P <</MCID 91>> BDC BT
+1 0 0 1 239.92 426.65 Tm
+ -0.0368 Tc[(15)] TJ
+ET
+ EMC  /P <</MCID 92>> BDC BT
+1 0 0 1 283.95 426.65 Tm
+ 0 Tc[(2)] TJ
+ET
+ EMC  /P <</MCID 93>> BDC BT
+1 0 0 1 336.25 426.65 Tm
+[(3)] TJ
+ET
+ EMC  /P <</MCID 94>> BDC BT
+1 0 0 1 356.85 426.65 Tm
+[(0)] TJ
+ET
+ EMC  /P <</MCID 95>> BDC BT
+1 0 0 1 377.45 426.65 Tm
+1 0 0 rg
+1 0 0 RG
+ -0.0368 Tc[(20)] TJ
+ET
+ EMC  /P <</MCID 96>> BDC BT
+1 0 0 1 404.95 426.65 Tm
+0 g
+0 G
+ 0 Tc[(0)] TJ
+ET
+ EMC  /P <</MCID 97>> BDC BT
+1 0 0 1 470.38 426.65 Tm
+1 0 0 rg
+1 0 0 RG
+[(0)] TJ
+ET
+ EMC  /P <</MCID 98>> BDC BT
+1 0 0 1 549.38 426.65 Tm
+ -0.0368 Tc[(20)] TJ
+ET
+ EMC  /P <</MCID 99>> BDC BT
+1 0 0 1 61.7 411.35 Tm
+0 g
+0 G
+ 0 Tc[(9)] TJ
+ET
+ EMC  /P <</MCID 100>> BDC BT
+1 0 0 1 90 411.35 Tm
+[(9)] TJ
+ET
+ EMC  /P <</MCID 101>> BDC BT
+1 0 0 1 239.92 411.35 Tm
+[(8)] TJ
+ET
+ EMC  /P <</MCID 102>> BDC BT
+1 0 0 1 283.95 411.35 Tm
+[(8)] TJ
+ET
+ EMC  /P <</MCID 103>> BDC BT
+1 0 0 1 336.25 411.35 Tm
+[(4)] TJ
+ET
+ EMC  /P <</MCID 104>> BDC BT
+1 0 0 1 356.85 411.35 Tm
+[(0)] TJ
+ET
+ EMC  /P <</MCID 105>> BDC BT
+1 0 0 1 377.45 411.35 Tm
+1 0 0 rg
+1 0 0 RG
+ -0.0368 Tc[(20)] TJ
+ET
+ EMC  /P <</MCID 106>> BDC BT
+1 0 0 1 404.95 411.35 Tm
+0 g
+0 G
+ 0 Tc[(0)] TJ
+ET
+ EMC  /P <</MCID 107>> BDC BT
+1 0 0 1 470.38 411.35 Tm
+1 0 0 rg
+1 0 0 RG
+[(0)] TJ
+ET
+ EMC  /P <</MCID 108>> BDC BT
+1 0 0 1 549.38 411.35 Tm
+ -0.0368 Tc[(20)] TJ
+ET
+ EMC  /P <</MCID 109>> BDC BT
+1 0 0 1 57.4 396.05 Tm
+0 g
+0 G
+[(10)] TJ
+ET
+ EMC  /P <</MCID 110>> BDC BT
+1 0 0 1 87.9 396.05 Tm
+[(10)] TJ
+ET
+ EMC  /P <</MCID 111>> BDC BT
+1 0 0 1 239.92 396.05 Tm
+[(17)] TJ
+ET
+ EMC  /P <</MCID 112>> BDC BT
+1 0 0 1 283.95 396.05 Tm
+ 0 Tc[(0)] TJ
+ET
+ EMC  /P <</MCID 113>> BDC BT
+1 0 0 1 336.25 396.05 Tm
+[(3)] TJ
+ET
+ EMC  /P <</MCID 114>> BDC BT
+1 0 0 1 356.85 396.05 Tm
+[(0)] TJ
+ET
+ EMC  /P <</MCID 115>> BDC BT
+1 0 0 1 377.45 396.05 Tm
+1 0 0 rg
+1 0 0 RG
+ -0.0368 Tc[(20)] TJ
+ET
+ EMC  /P <</MCID 116>> BDC BT
+1 0 0 1 404.95 396.05 Tm
+0 g
+0 G
+ 0 Tc[(0)] TJ
+ET
+ EMC  /P <</MCID 117>> BDC BT
+1 0 0 1 470.38 396.05 Tm
+1 0 0 rg
+1 0 0 RG
+[(0)] TJ
+ET
+ EMC  /P <</MCID 118>> BDC BT
+1 0 0 1 549.38 396.05 Tm
+ -0.0368 Tc[(20)] TJ
+ET
+ EMC  /P <</MCID 119>> BDC BT
+1 0 0 1 57.4 380.75 Tm
+0 g
+0 G
+[(11)] TJ
+ET
+ EMC  /P <</MCID 120>> BDC BT
+1 0 0 1 87.9 380.75 Tm
+[(11)] TJ
+ET
+ EMC  /P <</MCID 121>> BDC BT
+1 0 0 1 239.92 380.75 Tm
+[(30)] TJ
+ET
+ EMC  /P <</MCID 122>> BDC BT
+1 0 0 1 283.95 380.75 Tm
+[(10)] TJ
+ET
+ EMC  /P <</MCID 123>> BDC BT
+1 0 0 1 336.25 380.75 Tm
+ 0 Tc[(0)] TJ
+ET
+ EMC  /P <</MCID 124>> BDC BT
+1 0 0 1 356.85 380.75 Tm
+[(0)] TJ
+ET
+ EMC  /P <</MCID 125>> BDC BT
+1 0 0 1 377.45 380.75 Tm
+1 0 0 rg
+1 0 0 RG
+ -0.0368 Tc[(40)] TJ
+ET
+ EMC  /P <</MCID 126>> BDC BT
+1 0 0 1 404.95 380.75 Tm
+0 g
+0 G
+ 0 Tc[(0)] TJ
+ET
+ EMC  /P <</MCID 127>> BDC BT
+1 0 0 1 470.38 380.75 Tm
+1 0 0 rg
+1 0 0 RG
+[(0)] TJ
+ET
+ EMC  /P <</MCID 128>> BDC BT
+1 0 0 1 549.38 380.75 Tm
+ -0.0368 Tc[(40)] TJ
+ET
+ EMC  /P <</MCID 129>> BDC BT
+1 0 0 1 57.4 365.45 Tm
+0 g
+0 G
+[(11)] TJ
+ET
+ EMC  /P <</MCID 130>> BDC BT
+1 0 0 1 87.9 365.45 Tm
+[(12)] TJ
+ET
+ EMC  /P <</MCID 131>> BDC BT
+1 0 0 1 239.92 365.45 Tm
+ 0 Tc[(8)] TJ
+ET
+ EMC  /P <</MCID 132>> BDC BT
+1 0 0 1 283.95 365.45 Tm
+[(4)] TJ
+ET
+ EMC  /P <</MCID 133>> BDC BT
+1 0 0 1 336.25 365.45 Tm
+[(8)] TJ
+ET
+ EMC  /P <</MCID 134>> BDC BT
+1 0 0 1 356.85 365.45 Tm
+[(0)] TJ
+ET
+ EMC  /P <</MCID 135>> BDC BT
+1 0 0 1 377.45 365.45 Tm
+1 0 0 rg
+1 0 0 RG
+ -0.0368 Tc[(20)] TJ
+ET
+ EMC  /P <</MCID 136>> BDC BT
+1 0 0 1 404.95 365.45 Tm
+0 g
+0 G
+ 0 Tc[(0)] TJ
+ET
+ EMC  /P <</MCID 137>> BDC BT
+1 0 0 1 470.38 365.45 Tm
+1 0 0 rg
+1 0 0 RG
+[(0)] TJ
+ET
+ EMC  /P <</MCID 138>> BDC BT
+1 0 0 1 549.38 365.45 Tm
+ -0.0368 Tc[(20)] TJ
+ET
+ EMC  /P <</MCID 139>> BDC BT
+1 0 0 1 57.4 350.15 Tm
+0 g
+0 G
+[(13)] TJ
+ET
+ EMC  /P <</MCID 140>> BDC BT
+1 0 0 1 87.9 350.15 Tm
+[(13)] TJ
+ET
+ EMC  /P <</MCID 141>> BDC BT
+1 0 0 1 239.92 350.15 Tm
+[(10)] TJ
+ET
+ EMC  /P <</MCID 142>> BDC BT
+1 0 0 1 283.95 350.15 Tm
+ 0 Tc[(8)] TJ
+ET
+ EMC  /P <</MCID 143>> BDC BT
+1 0 0 1 336.25 350.15 Tm
+[(2)] TJ
+ET
+ EMC  /P <</MCID 144>> BDC BT
+1 0 0 1 356.85 350.15 Tm
+[(0)] TJ
+ET
+ EMC  /P <</MCID 145>> BDC BT
+1 0 0 1 377.45 350.15 Tm
+1 0 0 rg
+1 0 0 RG
+ -0.0368 Tc[(20)] TJ
+ET
+ EMC  /P <</MCID 146>> BDC BT
+1 0 0 1 404.95 350.15 Tm
+0 g
+0 G
+ 0 Tc[(0)] TJ
+ET
+ EMC  /P <</MCID 147>> BDC BT
+1 0 0 1 470.38 350.15 Tm
+1 0 0 rg
+1 0 0 RG
+[(0)] TJ
+ET
+ EMC  /P <</MCID 148>> BDC BT
+1 0 0 1 549.38 350.15 Tm
+ -0.0368 Tc[(20)] TJ
+ET
+ EMC  /P <</MCID 149>> BDC BT
+1 0 0 1 57.4 334.85 Tm
+0 g
+0 G
+[(14)] TJ
+ET
+ EMC  /P <</MCID 150>> BDC BT
+1 0 0 1 87.9 334.85 Tm
+[(14)] TJ
+ET
+ EMC  /P <</MCID 151>> BDC BT
+1 0 0 1 239.92 334.85 Tm
+[(14)] TJ
+ET
+ EMC  /P <</MCID 152>> BDC BT
+1 0 0 1 283.95 334.85 Tm
+ 0 Tc[(0)] TJ
+ET
+ EMC  /P <</MCID 153>> BDC BT
+1 0 0 1 336.25 334.85 Tm
+[(1)] TJ
+ET
+ EMC  /P <</MCID 154>> BDC BT
+1 0 0 1 356.85 334.85 Tm
+[(0)] TJ
+ET
+ EMC  /P <</MCID 155>> BDC BT
+1 0 0 1 377.45 334.85 Tm
+1 0 0 rg
+1 0 0 RG
+ -0.0368 Tc[(15)] TJ
+ET
+ EMC  /P <</MCID 156>> BDC BT
+1 0 0 1 404.95 334.85 Tm
+0 g
+0 G
+ 0 Tc[(0)] TJ
+ET
+ EMC  /P <</MCID 157>> BDC BT
+1 0 0 1 470.38 334.85 Tm
+1 0 0 rg
+1 0 0 RG
+[(0)] TJ
+ET
+ EMC  /P <</MCID 158>> BDC BT
+1 0 0 1 549.38 334.85 Tm
+ -0.0368 Tc[(15)] TJ
+ET
+ EMC  /P <</MCID 159>> BDC BT
+1 0 0 1 57.4 319.55 Tm
+0 g
+0 G
+[(15)] TJ
+ET
+ EMC  /P <</MCID 160>> BDC BT
+1 0 0 1 87.9 319.55 Tm
+[(15)] TJ
+ET
+ EMC  /P <</MCID 161>> BDC BT
+1 0 0 1 239.92 319.55 Tm
